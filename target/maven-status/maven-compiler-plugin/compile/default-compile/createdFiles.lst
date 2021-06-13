@@ -1,0 +1,11 @@
+com\maersk\moviestore\repository\MovieRepository.class
+com\maersk\moviestore\validator\YearValidator.class
+com\maersk\moviestore\MovieStoreWebApplication.class
+com\maersk\moviestore\exception\IncorrectMovieException.class
+com\maersk\moviestore\controller\MovieStoreController.class
+com\maersk\moviestore\exception\ErrorResponse.class
+com\maersk\moviestore\service\MovieStoreService.class
+com\maersk\moviestore\model\Movie.class
+com\maersk\moviestore\validator\ValidateYear.class
+com\maersk\moviestore\vo\MovieResult.class
+com\maersk\moviestore\exception\IncorrectMovieExceptionHandler.class

@@ -1,0 +1,3 @@
+com\maersk\moviestore\controller\MovieStoreControllerTest.class
+com\maersk\moviestore\repository\MovieRepositoryTest.class
+com\maersk\moviestore\service\MovieStoreServiceTest.class

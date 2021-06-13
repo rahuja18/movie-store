@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.maersk.moviestore.repository.MovieRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.663 s - in com.maersk.moviestore.repository.MovieRepositoryTest

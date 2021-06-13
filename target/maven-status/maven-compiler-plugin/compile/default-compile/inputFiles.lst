@@ -1,0 +1,11 @@
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\service\MovieStoreService.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\controller\MovieStoreController.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\exception\ErrorResponse.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\validator\ValidateYear.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\exception\IncorrectMovieExceptionHandler.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\exception\IncorrectMovieException.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\MovieStoreWebApplication.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\vo\MovieResult.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\repository\MovieRepository.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\validator\YearValidator.java
+C:\projects\movies-api\src\main\java\com\maersk\moviestore\model\Movie.java
